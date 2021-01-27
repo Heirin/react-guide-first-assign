@@ -1,3 +1,12 @@
+
+# First Assignment - React
+My solution to the first assignment in React.
+
+## Sources
+Udemy guide on React: https://www.udemy.com/course/react-the-complete-guide-incl-redux/
+Course instructor: https://www.udemy.com/course/react-the-complete-guide-incl-redux/#instructor-2
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
