@@ -3,7 +3,7 @@
 My solution to the first assignment in React.
 
 ## Sources
-Udemy guide on React: https://www.udemy.com/course/react-the-complete-guide-incl-redux/
+Udemy guide on React: https://www.udemy.com/course/react-the-complete-guide-incl-redux/ \
 Course instructor: https://www.udemy.com/course/react-the-complete-guide-incl-redux/#instructor-2
 
 
