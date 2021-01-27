@@ -1,6 +1,7 @@
 
 # First Assignment - React
-My solution to the first assignment in React.
+My solution to the first assignment in React. This assignment is about understanding how to create new components and how to use them. It also
+addresses props and state handling.
 
 ## Sources
 Udemy guide on React: https://www.udemy.com/course/react-the-complete-guide-incl-redux/ \
